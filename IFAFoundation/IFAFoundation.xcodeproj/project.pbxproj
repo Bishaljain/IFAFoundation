@@ -71,7 +71,7 @@
 		F7156BF71BE952FB0009EFF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F72C55991F40F13100CF0AD1 /* TypedNotification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypedNotification.swift; sourceTree = "<group>"; };
 		F72C559B1F40F6D800CF0AD1 /* TypedNotificationTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypedNotificationTests.swift; sourceTree = "<group>"; };
-		F75C516F1BF1338B0003174D /* IFAFoundation.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = IFAFoundation.podspec; path = ../IFAFoundation.podspec; sourceTree = "<group>"; };
+		F75C516F1BF1338B0003174D /* IFAFoundation.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = IFAFoundation.podspec; path = ../IFAFoundation.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F7650AFF1BE9595700B97932 /* IFAFoundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFAFoundation.h; sourceTree = "<group>"; };
 		F7650B001BE9595700B97932 /* IFAAssertionUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IFAAssertionUtils.h; sourceTree = "<group>"; };
 		F7650B011BE9595700B97932 /* IFAAssertionUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IFAAssertionUtils.m; sourceTree = "<group>"; };
@@ -309,6 +309,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = F7156BDC1BE952FB0009EFF4;
